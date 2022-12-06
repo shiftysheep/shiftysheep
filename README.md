@@ -1,9 +1,3 @@
-### Hi there 👋
-- [ ] Edit me
-<!--
-add objectives here
---!>
+### Hi there 
+Just an IT professional with a personal passion for security and python. 
 
-<!-- 
-add skils here 
---!>
